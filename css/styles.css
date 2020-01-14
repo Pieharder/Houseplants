@@ -1,0 +1,14 @@
+.zz-initially-hidden, .snake-initially-hidden {
+  display: none;
+}
+
+.zz, .snake {
+  cursor: pointer;
+  color: #0088cc;
+  text-shadow: #0088cc 5px 0 10px;
+}
+
+.zz:hover, .snake:hover {
+  text-decoration: underline;
+  text-decoration-color: black;
+}
